@@ -31,7 +31,7 @@ and that counts as your first PR.
 ![register](https://user-images.githubusercontent.com/42115530/65821155-7f724600-e24f-11e9-90ed-8a956b0a854a.JPG)
 
 ### 2. Getting Started
-#### See Our Website at: https://hacktoberfest.netlify.com/
+#### See Our Website at this link: https://hacktoberfest.netlify.com/
 
 ![website](https://user-images.githubusercontent.com/42115530/65821073-6f0d9b80-e24e-11e9-883e-262588bdef7f.JPG)
 
